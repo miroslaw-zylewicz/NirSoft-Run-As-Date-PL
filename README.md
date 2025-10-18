@@ -1,4 +1,4 @@
-<b>NirSoft Run As Date 1.37 na oficjalnej stronie:</b>
+<b>NirSoft Run As Date 1.41 na oficjalnej stronie:</b>
 
 https://www.nirsoft.net
 
